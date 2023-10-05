@@ -1,4 +1,6 @@
-fun main() {
+package ru.titarev.game
+
+fun main(args: Array<String>) {
     println("Hello World!")
 
     // Try adding program arguments via Run/Debug configuration.
